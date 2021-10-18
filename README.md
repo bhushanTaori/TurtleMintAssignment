@@ -5,19 +5,16 @@
 
 A] Portrait Mode
 
-![device-2021-10-18-082247](https://user-images.githubusercontent.com/26690833/137662641-a8b162b6-479b-4387-80d1-c2a3b3df8f4f.png)
-
-![device-2021-10-18-082225](https://user-images.githubusercontent.com/26690833/137662632-58933ed9-4c17-4ec4-bf73-d3c09e89deec.png)
+<img width="150" alt="device-2021-10-18-084424" src="https://user-images.githubusercontent.com/26690833/137664336-cca0ebf3-41c0-4e6b-b24d-935570edb040.png">     <img width="150" alt="device-2021-10-18-084452" src="https://user-images.githubusercontent.com/26690833/137664341-50df40b7-2bed-499e-9c5b-8c5230ee4e7e.png">
 
 B] Landscape Mode
 
-![device-2021-10-18-082305](https://user-images.githubusercontent.com/26690833/137662684-c94db813-0ade-49cb-b40d-bac65cdb68b3.png)
-![device-2021-10-18-082320](https://user-images.githubusercontent.com/26690833/137662687-b2b13930-f3f4-4329-8876-21ad4c55c0f2.png)
+<img width="300" alt="device-2021-10-18-084508" src="https://user-images.githubusercontent.com/26690833/137664345-536af404-a99a-4be9-af22-09b5800f59ee.png">
 
 C] On screen network lost
 
-![device-2021-10-18-082354](https://user-images.githubusercontent.com/26690833/137662722-61a11c2d-0b87-45ba-9ea7-17c794239a7f.png)
+<img width="150" alt="device-2021-10-18-084521" src="https://user-images.githubusercontent.com/26690833/137664347-b4c4e698-2cf7-4ce3-a5e1-3d5e9c8b2999.png">
 
 D] After initial launch with n/w, there will be sufficient data store in Room which can display to user if app lauch in offline mode
 
-![device-2021-10-18-082418](https://user-images.githubusercontent.com/26690833/137662871-6f37a4eb-eedf-49a4-989e-85818257882f.png)
+<img width="150" alt="device-2021-10-18-084329" src="https://user-images.githubusercontent.com/26690833/137664332-545276d3-a760-4831-a446-21d8f01e1c28.png">
