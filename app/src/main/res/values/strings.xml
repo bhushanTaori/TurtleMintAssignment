@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Okhttp Issues</string>
+    <string name="user_tag">by %s</string>
+    <string name="updated_date_tag">on %s</string>
+    <string name="failed_data_load">Failed to load data %s</string>
+    <string name="no_data">No data available at the moment</string>
+    <string name="offline">You are offline</string>
+    <string name="online">You are online</string>
+    <string name="comments">Comments</string>
+</resources>
